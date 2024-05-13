@@ -1,14 +1,20 @@
 # Renzo Condezo Rivera
 
-Soy un apasionado desarrollador web con experiencia en **PHP**, **React**, **HTML** y **CSS**.
+Soy un desarrollador web front end y Backend en 
+**PHP**, 
+**React**, 
+**HTML** y **CSS**.
 
 ---
-### Habilidades Técnicas
+### Lo que me gusta
 - Lenguajes de Programación: 
   - ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- Frameworks y Librerías: 
+  - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- Frameworks ,  Librerías y Entorno: 
   - ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) React
+  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+  - ![Laravel](https://img.icons8.com/fluent/48/000000/laravel.png) Laravel
 - Tecnologías Web: 
   - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
   - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
@@ -17,5 +23,4 @@ Soy un apasionado desarrollador web con experiencia en **PHP**, **React**, **HTM
   - ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL
 - Herramientas de Desarrollo: 
   - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-
 
