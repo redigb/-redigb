@@ -1,6 +1,6 @@
 # Renzo Condezo Rivera
 
-Soy un desarrollador web front end y Backend en 
+Desarrollo web front end y Backend en 
 **PHP**, 
 **React**, 
 **HTML** y **CSS**.
