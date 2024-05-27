@@ -1,6 +1,7 @@
 # Renzo Condezo Rivera
 
-web front end y Backend en 
+web front end y Backend en
+**JAVA**, 
 **PHP**, 
 **React**, 
 **HTML** y **CSS**.
